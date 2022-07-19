@@ -47,9 +47,9 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 global.sig = 'https://instagram.com/AryBotz'
-global.sgh = 'https://github.com/aryjuanda'
+global.sgh = 'https://github.com/arybotz'
 global.sgc = 'https://chat.whatsapp.com/JWMl9LW5g0i0RSj7ophXAk'
-global.sdc = 'https://github.com/aryjuanda'
+global.sdc = 'https://github.com/arybotz'
 global.snh = 'https://youtube.com/c/AryBotz'
 
 /*============== PAYMENT ==============*/
@@ -62,14 +62,14 @@ global.psaweria = 'https://saweria.co/arybotz'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6285763050960'
-global.nomorown = '994408465157'
+global.nomorown = '6281264038909'
 global.namebot = 'AryBotz Ofc'
 global.nameown = 'X Ary Offcial'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['994408465157', 'X Ary Offcial', true]
+  ['6281264038909', 'X Ary Offcial', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
