@@ -62,7 +62,7 @@ global.psaweria = 'https://saweria.co/arybotz'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6285763050960'
-global.nomorown = '6281264038909'
+global.nomorown = '994408465157'
 global.namebot = 'AryBotz Ofc'
 global.nameown = 'X Ary Offcial'
 
