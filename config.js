@@ -46,30 +46,30 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/AryBotz'
-global.sgh = 'https://github.com/arybotz'
+global.sig = 'https://instagram.com/zammultramennexus'
+global.sgh = 'https://github.com/AzamXd'
 global.sgc = 'https://chat.whatsapp.com/JWMl9LW5g0i0RSj7ophXAk'
-global.sdc = 'https://github.com/arybotz'
-global.snh = 'https://youtube.com/c/AryBotz'
+global.sdc = 'https://github.com/AzamXd'
+global.snh = '-'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085762008398'
-global.povo = 'Gaada bang :v'
-global.pgopay = 'Gaada bang :v'
+global.pdana = '081389368689'
+global.povo = '081389368689'
+global.pgopay = '081389368689'
 global.ppulsa = '085762008398'
-global.ppulsa2 = '085762008398'
-global.psaweria = 'https://saweria.co/arybotz'
+global.ppulsa2 = '081389368689'
+global.psaweria = 'GADA BANG'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285763050960'
-global.nomorown = '994408465157'
-global.namebot = 'AryBotz Ofc'
-global.nameown = 'X Ary Offcial'
+global.nomorbot = '6289530417506'
+global.nomorown = '6281389368689'
+global.namebot = 'Cellino-BOT'
+global.nameown = 'Shou6ta'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281264038909', 'X Ary Offcial', true]
+  ['6281389368689', 'Shou6ta', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -97,10 +97,10 @@ global.APIs = { // API Prefix
   kanx: 'https://kannxapi.herokuapp.com/'
 }
 global.APIKeys = { // APIKey Here
-  // 'https://website': 'apikey'
+  // 'https://website': 'rey2k22'
   'https://api.xteam.xyz': 'APIKEY',
   'https://anabotofc.herokuapp.com/': 'APIKEY',
-  'https://api.lolhuman.xyz': 'APIKEY',
+  'https://api.lolhuman.xyz': 'rey2k22',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.me': 'apivinz',
   'https://pencarikode.xyz': 'pais',
@@ -114,12 +114,12 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '「 AryBotz |Ary Offcial⁩ 」' //Main Watermark
-global.wm2 = '    乂 Ary Botz 乂     '
-global.wm3 = 'Ary Botz |ᗪ'
+global.wm = '「 Shou6ta |Shou6ta⁩ 」' //Main Watermark
+global.wm2 = '    乂 Shou6ta 乂     '
+global.wm3 = 'Cellino Botz |ᗪ'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = 'AryBotz-MD✯✯✯✯✯ '
+global.titlebot = 'Cellino-MD✯✯✯✯✯ '
 global.author = global.wm
 
 
